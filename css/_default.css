@@ -1,0 +1,16 @@
+body {
+    height: 650px;
+    background: #f7f7f7 url(../img/pixta_35025623_s.jpg) center top/cover no-repeat;
+}
+
+.bheadder img {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.bheadder {
+    position: relative;
+    height: 650px;
+    width: 100%;
+}
