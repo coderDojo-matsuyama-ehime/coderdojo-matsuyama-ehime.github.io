@@ -1,5 +1,5 @@
 # 次回開催予定  
-次回開催は2020年11月15日(日)12:00〜になります。  
+次回開催は2020年12月13日(日)12:00〜になります。  
 参加予約は下記よりお願いいたします。  
 [DoorKeeper　CoderDojo松山予約サイト](https://coderdojo-matsuyama.doorkeeper.jp/events/113931)  
 ### 開催予定カレンダー  
