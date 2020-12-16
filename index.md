@@ -17,3 +17,8 @@
 [google Map](https://www.google.co.jp/maps/place/33%C2%B053'55.7%22N+132%C2%B045'33.3%22E/@33.898791,132.7586865,19z/data=!3m1!4b1!4m14!1m7!3m6!1s0x354fe40c9c8779a9:0x95313caa7b057e6e!2z44CSNzk5LTI2NTIg5oSb5aqb55yM5p2-5bGx5biC56aP6KeS55S6!3b1!8m2!3d33.8950921!4d132.7589084!3m5!1s0x0:0x0!7e2!8m2!3d33.8987909!4d132.7592348?hl=ja)  
 　道路脇で、目印も少なく分かりづらいです。お気軽に下記まで電話頂ければ幸いです。  
 PH連絡先　<b>090-8283-3895(佐伯)  
+
+***  
+-infomation ----  
+ Champion Jun Saiki / Saiki Educational Reserch Institute  
+ mail matsuyama_ehime.jp@coderdojo.com
