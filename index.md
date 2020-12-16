@@ -2,7 +2,7 @@
 
 次回開催は2020年12月26日(土)12:00〜になります。  
 12月27日(日)はCoderDojoの全国的なお祭りである　[”DojoCon Japan 2020”](https://dojocon2020.coderdojo.jp/) があり、わたしは裏方さんで参加しています。  
-  
+![DojoConJapan2020](./img/DojoConJapan2020.png)    
 参加予約は下記よりお願いいたします。  
 [DoorKeeper　CoderDojo松山予約サイト](https://coderdojo-matsuyama.doorkeeper.jp/events/115325)  
   
