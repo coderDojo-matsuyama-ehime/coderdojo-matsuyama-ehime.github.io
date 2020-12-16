@@ -21,4 +21,4 @@ PH連絡先　<b>090-8283-3895(佐伯)
 ***  
 -infomation ----  
  Champion Jun Saiki / Saiki Educational Reserch Institute  
- mail matsuyama_ehime.jp@coderdojo.com
+ 　[お問い合わせ先・Contact Us](https://docs.google.com/forms/d/1HYSg7dNMYGQBaVH3AS8VIhurrEFApPrQs2tqhPW4Bu0/edit)
