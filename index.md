@@ -12,10 +12,8 @@
 　
  最近こんなことしてます。  
  <table?
- <tr><td>よくわかんないけど、オシロ触ってみたり</td></tr>
- <tr><td><img src="./img/IMG_0750_m.jpg"></td></tr>
- <tr><td>マイクラで迷路作ったり</td></tr>
- <tr><td><img src="./img/IMG_0751_m.jpg"></td></tr>
+ <tr><td>よくわかんないけど、オシロ触ってみたり</td><td><img src="./img/IMG_0750_m.jpg"></td></tr>
+ <tr><td>マイクラで迷路作ったり</td><td><img src="./img/IMG_0751_m.jpg"></td></tr>
  </table>
   
   
