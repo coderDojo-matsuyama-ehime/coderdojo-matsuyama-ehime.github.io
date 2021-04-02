@@ -6,11 +6,11 @@
 　その気持ちを受け取って、サポート役の"メンター"が一緒になって実現します。  
 　初めてで不安な方も、一緒になって考えてみますのでお気軽に顔見せてください。  
 <div style="text-align: center;">
-<img align="center" width="200" src="./img/200414_138941409510112_906419_n.jpg">  
+<img align="center" width="300" src="./img/200414_138941409510112_906419_n.jpg">  
 </div>
 こんな人がお待ちしています。
-　
- 最近こんなことしてます。  
+  <br>
+ 最近こんなことしてました。  
  <table?
  <tr><td>よくわかんないけど、オシロ触ってみたり</td><td><img width="400" src="./img/IMG_0750_m.jpg"></td></tr>
  <tr><td>マイクラで迷路作ったり</td><td><img width="400" src="./img/IMG_0751_m.jpg"></td></tr>
