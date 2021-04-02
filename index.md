@@ -1,4 +1,4 @@
-![Title image](../img/infomation.png)
+![Title image](./img/infomation.png)
 
 # CoderDojo松山オフィシャルページ  
 　CoderDojo(コーダー・ドージョー)は、コドモの"やってみたい"をプログラミングの世界でかなえる場所です。  
