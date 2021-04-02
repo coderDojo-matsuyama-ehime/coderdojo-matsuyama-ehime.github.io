@@ -7,7 +7,6 @@
 　初めてで不安な方も、一緒になって考えてみますのでお気軽に顔見せてください。  <br>
    <br>
    CoderDojoの日本支部　[CoderDojo Japan](https://coderdojo.jp/)  <br>
-     <br>
    CoderDojo松山は 2019年から始まりました。  <br>
   <br>
 ちなみに最近こんなことやってました。  <br>  
