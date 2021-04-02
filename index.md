@@ -13,11 +13,11 @@
  最近こんなことしてました。  
 <div style="text-align: center;">
  <table border=0 width="100%">
- <tr><td>よくわかんないけど、オシロ触ってみたり<br>この子はYoutubeで昔のブラウン管がやその心の映像がお気に入り。<br>それで、分からないながらも、ブラウン管のついているオシロスコープに波形入力していろいろ試してます。</td><td><img width="400" src="./img/IMG_0750_m.jpg"></td></tr>
+ <tr><td>よくわかんないけど、オシロ触ってみたり<br><br>この子はYoutubeで昔のブラウン管がやその頃の映像がお気に入り。<br>それで、分からないながらも、ブラウン管のついているオシロスコープに波形入力していろいろ試してます。</td><td><img width="400" src="./img/IMG_0750_m.jpg"></td></tr>
  </tbody></table>
  
  <table><tbody border="0" width="100%">
- <tr><td><img width="400" src="./img/IMG_0751_m.jpg"></td><td>マイクラで迷路作ったり</td></tr>
+ <tr><td><img width="400" src="./img/IMG_0751_m.jpg"></td><td>マイクラで迷路作ったり<br><br>この子は普段robroxとかやってて、マイクラも塾でやってるみたい。<br>ひたすら作ってますが、とにかく早い･･･</td></tr>
  </tbody></table>
  </div>  
   
