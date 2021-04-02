@@ -1,6 +1,6 @@
 ![Title image](./img/infomation.png)
 
-# CoderDojo松山オフィシャルページ  
+# ■ CoderDojo松山オフィシャルページ ■  
 　CoderDojo(コーダー・ドージョー)は、コドモの"やってみたい"をプログラミングの世界でかなえる場所です。  
 　大事なのは、<font color="#ff5555">”自分でやってみたい"</font> って気持ちを持つこと。  
 　その気持ちを受け取って、サポート役の"メンター"が一緒になって実現します。  
@@ -22,7 +22,7 @@
  とにかく、プログラミングに関係あれば取り組み内容に<font color="red"><b> ○○しなきゃダメ </b></font>ってのはありません。  <br>
  そのほかにも、 [Scrach](https://scratch.mit.edu/) とかもやってますよ！！！  <br>
 
-# 次回開催予定  
+# ■ 次回開催予定 ■■■■■■■■■ 
 次回開催は2021年4月10日(土)13:00〜になります。  
 参加予約は下記よりお願いいたします。  
 [DoorKeeper　CoderDojo松山予約サイト](https://coderdojo-matsuyama.doorkeeper.jp/events/120261)  
