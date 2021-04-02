@@ -11,10 +11,10 @@
 こんな人がお待ちしています。
   <br>
  最近こんなことしてました。  
- <table border="0">
+ <table border="0" width="100%">
  <tr><td>よくわかんないけど、オシロ触ってみたり</td><td><img width="400" src="./img/IMG_0750_m.jpg"></td></tr>
  </table>
- <table border="0">
+ <table border="0" width="100%">
  <tr><td><img width="400" src="./img/IMG_0751_m.jpg"><td>マイクラで迷路作ったり</td></td></tr>
  </table>
   
