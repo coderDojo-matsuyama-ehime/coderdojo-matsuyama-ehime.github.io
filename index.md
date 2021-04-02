@@ -8,11 +8,7 @@
    <br>
    CoderDojoの日本支部　[CoderDojo Japan](https://coderdojo.jp/)  <br>
      <br>
-   CoderDojo松山は 2019年から始まり  <br>
-<div style="text-align: center;">
-<img align="center" width="300" src="./img/200414_138941409510112_906419_n.jpg">  
-</div>
-こんな人がお待ちしています。  <br>
+   CoderDojo松山は 2019年から始まりました。  <br>
   <br>
 ちなみに最近こんなことやってました。  <br>  
 ### よくわかんないけど、オシロ触ってみたり  
