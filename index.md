@@ -12,7 +12,7 @@
   <br>
  最近こんなことしてました。  
 <div style="text-align: center;">
- <table style="border:0; width:100%;">
+ <table border=0 width="100%">
  <tr><td>よくわかんないけど、オシロ触ってみたり<br>この子はYoutubeで昔のブラウン管がやその心の映像がお気に入り。<br>それで、分からないながらも、ブラウン管のついているオシロスコープに波形入力していろいろ試してます。</td><td><img width="400" src="./img/IMG_0750_m.jpg"></td></tr>
  </tbody></table>
  
