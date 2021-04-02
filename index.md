@@ -1,4 +1,4 @@
-![Title image](../img/pixta_35025623_s.jpg)
+![Title image](../img/infomation.png)
 
 # CoderDojo松山オフィシャルページ  
 　CoderDojo(コーダー・ドージョー)は、コドモの"やってみたい"をプログラミングの世界でかなえる場所です。  
