@@ -12,7 +12,7 @@
   <br>
  最近こんなことしてました。  
 <div style="text-align: center;">
- <table border=0 width="100%">
+ <table><tbody border="0" width="100%">
  <tr><td>よくわかんないけど、オシロ触ってみたり<br><br>この子はYoutubeで昔のブラウン管がやその頃の映像がお気に入り。<br>それで、分からないながらも、ブラウン管のついているオシロスコープに波形入力していろいろ試してます。<br>一見プログラミングとは関係ないように見えますが、プログラムで制御する対象を知ることも重要ですよね。</td><td><img width="400" src="./img/IMG_0750_m.jpg"></td></tr>
  </tbody></table>
  
