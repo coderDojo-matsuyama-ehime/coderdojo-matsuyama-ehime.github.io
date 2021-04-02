@@ -17,7 +17,7 @@
  </tbody></table>
  
  <table><tbody border="0" width="100%">
- <tr><td><img width="400" src="./img/IMG_0751_m.jpg"></td><td>マイクラで迷路作ったり<br><br><font size="-2">この子は普段robroxとかやってて、マイクラも塾でやってるみたい。<br>ひたすら作ってますが、とにかく早い･･･!しかも、トラップ満載でかなり、やり応えあります。</font></td></tr>
+ <tr><td><img width="400" src="./img/IMG_0751_m.jpg"></td><td>マイクラで迷路作ったり<br><br><font size="-1">この子は普段robroxとかやってて、マイクラも塾でやってるみたい。<br>ひたすら作ってますが、とにかく早い･･･!しかも、トラップ満載でかなり、やり応えあります。</font></td></tr>
  </tbody></table>
  とにかく、プログラミングに関係あれば取り組み内容に<font color="red"><b> ○○しなきゃダメ </b></font>ってのはありません。  
   
