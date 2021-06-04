@@ -20,6 +20,7 @@
   <br>
  とにかく、プログラミングに関係あれば取り組み内容に<font color="red"><b> ○○しなきゃダメ </b></font>ってのはありません。  <br>
  そのほかにも、 [Scratch](https://scratch.mit.edu/) とかもやってますよ！！！  <br>
+ [O](minecraft.md)
   <br>
   <br>
 # ■ やってみない？ 部活募集！■■■■■■■
