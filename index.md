@@ -30,11 +30,11 @@
   <br>
 
 # ■ 次回開催予定 ■■■■■■■■■ 
-次回開催は2021年10月17日(日)13:00〜になります。  
+次回開催は2021年10月31日(日)13:00〜になります。  
 コロナ禍であまり大勢の受け入れはできませんが、見学したいとかあればご相談ください。  
 10月は学校行事も多いので、毎週開催になります。都合の良い日に覗いてみてください。  
 参加予約は下記よりお願いいたします。  
-[DoorKeeper　CoderDojo松山予約サイト](https://coderdojo-matsuyama.doorkeeper.jp/events/128560)  
+[DoorKeeper　CoderDojo松山予約サイト](https://coderdojo-matsuyama.doorkeeper.jp/events/128924)  
 ### 開催予定カレンダー  
 <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FTokyo&amp;src=bWF0c3V5YW1hX2VoaW1lLmpwQGNvZGVyZG9qby5jb20&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=amEuamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5&amp;color=%2333B679&amp;color=%23D50000&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1" style="border:none #777" width="100%" height="650" frameborder="0" scrolling="no"></iframe>  
 住所：799−2652　愛媛県松山市福角町626-2  
