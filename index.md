@@ -18,7 +18,7 @@
    ※ごめんなさい、駐車場がありません<br>
    
 </font>
-<img width="400" src="./img/kodomonoibasyoMap.jpg">
+<img width="400" src="./img/kodomonoibasyo.gif">
 <hr>
 <br>
 
