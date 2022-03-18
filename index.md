@@ -15,6 +15,8 @@
    場所は・・・<br>
    〒790-0012<br>
    愛媛県松山市湊町4丁目10−6 BLESSビル3F<br>
+   TEL 089-909-9809<br>
+   コドモノイバショ<br>
    ※ごめんなさい、駐車場がありません<br>
    
 </font>
@@ -23,11 +25,14 @@
 <br>
 
 # ■ 次回開催予定 ■■■■■■■■■ 
-コロナの様子見ながらの開催になります、直前に中止になる可能性もあります。ご容赦ください。<br>
+コロナの様子見ながらの開催になります、直前に中止になる可能性もあります。ご容赦ください。 <br> 
+3月はコロナで開催できませんでしたが、4月は分散参加できるよう毎週開催します。<br>
+開催日程一覧
+2022/4/3_Sun 13:00-17:00<br>
+2022/4/10_Sun 13:00-17:00<br>
+2022/4/17_Sun 13:00-17:00<br>
+2022/4/24_Sun 13:00-17:00<br>
 
-### 開催予定カレンダー  
-<iframe src="https://calendar.google.com/calendar/embed?src=coderdojo.com_classroom66641609%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>  
-<br>
 PH連絡先　<b>090-8283-3895(佐伯)  
 <br>
 参加申し込みはこちら：[参加申し込み](https://coderdojo-matsuyama.doorkeeper.jp/events/134408)
