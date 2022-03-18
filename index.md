@@ -7,17 +7,16 @@
 　初めてで不安な方も、一緒になって考えてみますのでお気軽に顔見せてください。  <br>
    <br>
    CoderDojoの日本支部　[CoderDojo Japan](https://coderdojo.jp/)  <br>
-   CoderDojo松山は 2019年から始まりました。  <br>
+   CoderDojo松山は 2019年に始まりました。  <br>
   <br>
 ### 会場が変わります  
 <font size="-1">
-   使用会場が、銀天街の新会場に変わります。<br>
-   場所は・・・<br>
+   使用会場が、銀天街の新会場に変わります。場所は・・・<br>
    〒790-0012<br>
    愛媛県松山市湊町4丁目10−6 BLESSビル3F<br>
    TEL 089-909-9809<br>
    コドモノイバショ<br>
-   ※ごめんなさい、駐車場がありません<br>
+   ※ごめんなさい、駐輪・駐車場がありません<br>
    
 </font>
 <img width="400" src="./img/kodomonoibasyo.gif">
