@@ -33,5 +33,4 @@
 
 PH連絡先　<b>090-8283-3895(佐伯)  
 <br>
-参加申し込みはこちら：  
-<a class="doorkeeper-registration-widget" href="https://coderdojo-matsuyama.doorkeeper.jp/events/135712">自由にプログラミングを学ぶ場 CoderDojo松山#50</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+参加申し込みはこちら： [申し込み](https://coderdojo-matsuyama.doorkeeper.jp/events/135712)
