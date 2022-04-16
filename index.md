@@ -28,9 +28,10 @@
 3月はコロナで開催できませんでしたが、4月は分散参加できるよう毎週開催します。<br>
 開催日程一覧<br>
   
-2022/4/17_Sun 13:00-17:00<br>
-2022/4/24_Sun 13:00-17:00<br>
-
+2022/4/17 Sun 13:00-17:00<br>
+2022/4/24 Sun 13:00-17:00<br>
+2022/5/1  Sun 13:00-17:00<br>
+   
 PH連絡先　<b>090-8283-3895(佐伯)  
 <br>
-参加申し込みはこちら： [![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/135712)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/135712)
