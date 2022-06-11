@@ -27,8 +27,8 @@
 コロナの様子見ながらの開催になります、直前に中止になる可能性もあります。ご容赦ください。 <br> 
 開催日程一覧<br>
   
-2022/6/5  Sun 13:00-17:00<br>
+2022/6/19  Sun 13:00-17:00<br>
    
 PH連絡先　<b>090-8283-3895(佐伯)  
 <br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/137961)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/138548)
