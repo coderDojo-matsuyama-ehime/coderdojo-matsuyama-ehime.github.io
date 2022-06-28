@@ -9,9 +9,9 @@
    CoderDojoの日本支部　[CoderDojo Japan](https://coderdojo.jp/)  <br>
    CoderDojo松山は 2019年に始まりました。  <br>
   <br>
-### 会場が変わります  
+### 会場案内
 <font size="-1">
-   使用会場が、銀天街の新会場に変わります。場所は・・・<br>
+   住所はこちら<br>
    〒790-0012<br>
    愛媛県松山市湊町4丁目10−6 BLESSビル3F<br>
    TEL 089-909-9809<br>
@@ -27,8 +27,13 @@
 コロナの様子見ながらの開催になります、直前に中止になる可能性もあります。ご容赦ください。 <br> 
 開催日程一覧<br>
   
+<b>通常開催予定</b>  <br>
 2022/7/3  Sun 13:00-17:00<br>
-   
+
+<b>マイクラブ開催予定</b>  <br>
+2022/7/10  Sun 13:00-17:00<br>
+※マイクラカップ出場者の日
+
 PH連絡先　<b>090-8283-3895(佐伯)  
 <br>
 参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/138967)
