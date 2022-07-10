@@ -28,12 +28,12 @@
 開催日程一覧<br>
   
 <b>通常開催予定</b>  <br>
-2022/7/3  Sun 13:00-17:00<br>
+2022/7/17  Sun 13:00-17:00<br>
 
 <b>マイクラブ開催予定</b>  <br>
-2022/7/10  Sun 13:00-17:00<br>
+2022/7/24  Sun 13:00-17:00<br>
 ※マイクラカップ出場者の日
 
 PH連絡先　<b>090-8283-3895(佐伯)  
 <br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/138967)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/139894)
