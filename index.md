@@ -28,6 +28,5 @@
 開催日程一覧<br>
   
 <b>通常開催予定</b>  <br>
-シルバーウィーク3連休のど真ん中！  
-2022/9/18  Sun 13:00-17:00<br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/143252)
+2022/10/2  Sun 13:00-17:00<br>
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/143841)
