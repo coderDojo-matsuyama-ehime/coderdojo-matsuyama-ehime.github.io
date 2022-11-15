@@ -28,5 +28,5 @@
 開催日程一覧<br>
   
 <b>通常開催予定</b>  <br>
-2022/11/13 Sun 13:00-17:00<br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/146006)
+2022/11/27 Sun 13:00-17:00<br>
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/146998)
