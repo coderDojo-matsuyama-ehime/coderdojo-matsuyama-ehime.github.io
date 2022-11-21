@@ -27,6 +27,10 @@
 コロナの様子見ながらの開催になります、直前に中止になる可能性もあります。ご容赦ください。 <br> 
 開催日程一覧<br>
   
+***<span style="color: red; ">日程変更のお知らせ</span>***  
+日程変更になります。ご容赦ください。  
+
+
 <b>通常開催予定</b>  <br>
-2022/11/27 Sun 13:00-17:00<br>
+2022/12/4 Sun 13:00-17:00<br>
 参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/146998)
