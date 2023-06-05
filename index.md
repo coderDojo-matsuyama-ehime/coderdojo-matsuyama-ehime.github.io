@@ -29,5 +29,5 @@
 6月は3回開催予定です  <br>
 6/4,6/11,6/18  <br>
 <b>通常開催予定</b>  <br>
-2023/6/4 Sun 13:00-17:00<br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/156833)
+2023/6/11 Sun 13:00-17:00<br>
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/157893)
