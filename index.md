@@ -29,5 +29,6 @@
   <br>
   <br>
 <b>通常開催予定</b>  <br>
-2023/10/15 Sun 13:00-17:00<br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/164418)
+2023/11/3 Sun 13:00-17:00<br>
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/165302)
+
