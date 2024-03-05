@@ -17,6 +17,7 @@
    TEL 089-909-9809<br>
    コドモノイバショ<br>
    ※ごめんなさい、駐輪・駐車場がありません<br>
+   　公共交通機関、近隣の有料駐車場ご利用ください。<br>
    
 </font>
 <img width="400" src="./img/kodomonoibasyo.gif">
@@ -27,8 +28,6 @@
 コロナの様子見ながらの開催になります、直前に中止になる可能性もあります。ご容赦ください。 <br> 
 開催日程一覧<br>
   <br>
-12月は　3日 、 24日開催予定です。
-  <br>
 <b>通常開催予定</b>  <br>
-2023/12/3 Sun 13:00-17:00<br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/166704)
+2024/3/24 Sun 14:00-17:00<br>
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/170389)
