@@ -30,6 +30,7 @@
   <br>
 <b>通常開催予定</b>  <br>
 2024/7/21 Sun 14:00-17:00<br>
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/175389)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/175907)
 
-7月はもう一回　2024/7/27(土) 　にも開催！
+8月12日に、松山、伊予、紫雲合同のデカドージョー開催します！
+
