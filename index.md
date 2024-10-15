@@ -30,5 +30,5 @@
   <br>
 <b>通常開催予定</b>  <br>
 2024/10/26 Sat 14:00-17:00<br>
-<font color="FF0000">今回は土曜日開催になります！</font>
+<font color="#FF0000">今回は土曜日開催になります！</font>
 参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/178645)
