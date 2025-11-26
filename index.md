@@ -29,6 +29,6 @@
 開催日程一覧<br>
   <br>
 <b>通常開催予定</b>  <br>
-2025/11/16 Sun 13:00-17:00<br>
+2025/11/30 Sun 13:00-17:00<br>
 # 日程変更になります。  
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/192570)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/193183)
