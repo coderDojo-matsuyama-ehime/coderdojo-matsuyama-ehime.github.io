@@ -28,7 +28,6 @@
 開催日程一覧<br>
   <br>
 <!-- b>通常開催予定</b -->  <br>
-# <s>2026/4/12 Sun 13:00-17:00</s><br>
-# 2028/4/11 土曜日に変更となります。<br>
+# 2026/4/26 Sun 13:00-17:00 <br>
 
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/196194)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/196670)
