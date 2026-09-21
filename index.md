@@ -7,7 +7,7 @@
 　初めてで不安な方も、一緒になって考えてみますのでお気軽に顔見せてください。  <br>
    <br>
    CoderDojoの日本支部　[CoderDojo Japan](https://coderdojo.jp/)  <br>
-   CoderDojo松山は 2019年に始まりました。  <br>
+   CoderDojo松山は 2019年から始まりました。  <br>
   <br>
 ### 会場案内
 <font size="-1">
@@ -16,7 +16,7 @@
    愛媛県松山市湊町4丁目10−6 BLESSビル3F<br>
    TEL 089-909-9809<br>
    コドモノイバショ<br>
-   ※ごめんなさい、駐輪・駐車場がありません<br>
+   ※駐輪・駐車場がありません<br>
    　公共交通機関、近隣の有料駐車場ご利用ください。<br>
    
 </font>
@@ -28,7 +28,8 @@
 開催日程一覧<br>
   <br>
 <!-- b>通常開催予定</b -->  <br>
-# 2026/9/13 Sun 13:00-17:00 <br>
+# 2026/9/27 Sun 13:00-17:00 <br>
 
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/199163)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/199487)
+
 
