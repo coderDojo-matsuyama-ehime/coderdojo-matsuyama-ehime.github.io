@@ -30,4 +30,4 @@
 <!-- b>通常開催予定</b -->  <br>
 # 2026/11/1 Sun 13:00-17:00 <br>
 
-参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/199962)
+参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/200309)
