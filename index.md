@@ -27,7 +27,7 @@
 # ■ 次回開催予定 ■■■■■■■■■ 
 開催日程一覧<br>
   <br>
-<p style="color:red"><b>申し訳ありませんが23日に変更になります</b></p><br>開催予定  <br>
+<p style="color: red"><b>申し訳ありませんが23日に変更になります</b></p><br>開催予定  <br>
 # 2026/11/23 Mon 13:00-17:00 <br>
 
 参加申し込みはこちら：<br>[![申し込みボタン](./img/application_button.gif)](https://coderdojo-matsuyama.doorkeeper.jp/events/200309)
